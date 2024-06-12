@@ -24,17 +24,6 @@
     
     The project directory structure is as follows:
 
-```
-playwright/
-├── frontend
-│   ├── tests/
-│   │   ├── e2e
-│   │       └── lga.ach.approval.spec.js
-│   ├── playwright.config.js
-│   ├── package.json
-│   ├── config.json
-│   └── README.md
-```
 -   tests/e2e: Contains all test files.
 -   playwright.config.js: Configuration file for Playwright.
 -   package.json: Contains project dependencies and scripts.
